@@ -13,6 +13,8 @@
 *.log
 
 .vscode/
+AR_Portal_BackUpThisFolder_ButDontShipItWithYourGame/
+AR_Portal_BurstDebugInformation_DoNotShip/
 *.slnx
 
 # By default unity supports Blender asset imports, *.blend1 blender files do not need to be commited to version control.
